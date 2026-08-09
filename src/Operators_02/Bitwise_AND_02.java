@@ -11,6 +11,8 @@ public class Bitwise_AND_02 {
         System.out.println("Enter the number of B: ");
         int b = sc.nextInt();
 
+        sc.close();
+
         int result = a & b;
         System.out.println("Bitwise AND: "+result);
     }
