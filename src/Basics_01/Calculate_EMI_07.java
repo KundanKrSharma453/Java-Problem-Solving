@@ -3,7 +3,7 @@ package Basics_01;
 import java.util.Scanner;
 import static java.lang.Math.pow;
 
-public class Calculate_EMI {
+public class Calculate_EMI_07{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the principal amount: ");
