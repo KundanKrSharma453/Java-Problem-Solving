@@ -15,7 +15,7 @@ public class Implicit_Type_Casting_05 {
         float finalValue = (float) integar + floating;
         System.out.println("Sum of both: "+finalValue);
 
-        // Type casting
+        // Type casting never Loss data
         floating = integar;
 
         System.out.println("Int : " + integar + " is converted to Float : " + floating);
