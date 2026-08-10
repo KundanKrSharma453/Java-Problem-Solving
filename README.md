@@ -1,5 +1,5 @@
 # ☕ Java Problem Solving
-
+https://docs.google.com/spreadsheets/d/1iXK_J6m9ty9ydVWh4nvj1HXjKW5kEnsI-xNlNo8XszY/edit?gid=631844992#gid=631844992
 A structured journey through Core Java, Java 8 and Java 17 with hands-on problem solving.
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
