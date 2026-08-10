@@ -10,11 +10,12 @@ public class Evaluate_Arithmetic_Expression_11 {
         System.out.print("Enter the secondNum: ");
         int secondNum = sc.nextInt();
 
+        System.out.println("===================Output=======================");
         // Printing the output with Evaluate
         System.out.println("Addition of two number: "+(firstNum + secondNum));
         System.out.println("Subtraction of two number: "+(firstNum - secondNum));
-        System.out.println("Multiply of two number: "+(firstNum * secondNum));
+        System.out.println("Multiplication of two number: "+(firstNum * secondNum));
         System.out.println("Divide of two number: "+(firstNum / secondNum));
-        System.out.println("Modular of two number: "+(firstNum % secondNum));
+        System.out.println("Modulo of two number: "+(firstNum % secondNum));
     }
 }
