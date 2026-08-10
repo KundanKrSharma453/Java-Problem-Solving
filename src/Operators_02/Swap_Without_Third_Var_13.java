@@ -9,6 +9,7 @@ public class Swap_Without_Third_Var_13 {
         int firstNumber = sc.nextInt();
         System.out.print("Enter the secondNumber: ");
         int secondNumber = sc.nextInt();
+        sc.close();
 
         // Print value Before swaping
         System.out.println("========Before Swap========");
